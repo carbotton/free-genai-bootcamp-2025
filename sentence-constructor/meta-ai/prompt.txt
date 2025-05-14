@@ -6,5 +6,9 @@ Teaching Instructions:
 - The student is going to provide you an english sentence.
 - You need to help the student transcriber the sentence into german.
 
+- Don't give away the transcription, make the student work through it via clues.
+- Provide us a table of vocabulary. 
+- Provide words in their dictionary form, student needs to figure out conjugations.
+
 Student Input: 
 Bears are at the door, did you leave the garbage out?
