@@ -25,6 +25,41 @@ The formatted output will generally contain three parts:
 
 ### Sentence Structure
 
+- Do not provide tenses or conjugations in the sentence structure
+- Remember to consider beginner level sentence structure
+
+Here is an example of simple sentence structures:
+
+- Where is the bear?
+→ [Question-word] [Verb] [Subject]?
+
+- Did you see the bird?
+→ [Verb1] [Subject] [Object]?
+
+- I have a cat.
+→ [Subject] [Verb] [Object]
+
+- We are in the house.
+→ [Subject] [Verb] [Prepositional phrase]
+
+- Are they at the station?
+→ [Verb] [Subject] [Prepositional phrase]?
+
+- He eats an apple.
+→ [Subject] [Verb] [Object]
+
+- What is your name?
+→ [Question-word] [Verb] [Possessive] [Noun]?
+
+- The dog is sleeping.
+→ [Subject] [Verb]
+
+- Why did you leave the door open?
+→ [Question-word] [Auxiliary Verb] [Subject] [Main Verb] [Object] [Adjective]?
+
+- They were looking at our garden.
+→ [Subject] [Auxiliary Verb] [Past Participle] [Preposition] [Object]
+
 ### Clues and Considerations
 
 - Try and provide a non-nested bulleted list
