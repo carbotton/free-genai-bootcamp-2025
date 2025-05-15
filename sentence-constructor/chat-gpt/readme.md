@@ -1,7 +1,7 @@
 ## ChatGPT Powered Assistant Guide
 
 ### Which Model
-Free version of ChatGPT
+Free version of ChatGPT (GPT 4-o)
 
 ### Prompting Guides
 https://cookbook.openai.com/examples/gpt4-1_prompting_guide
