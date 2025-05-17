@@ -2,17 +2,19 @@
 
 ```mermaid
 graph TD;
-    user((USER)) --|Query|--> RAG;
+    user((USER)) --Query--> RAG;
     RAG --> database[(Database)];
-    RAG --> internet["Internet"];
+    RAG --> Internet;
     RAG --> PromptCache;
     PromptCache --> InputGuardRail;
     InputGuardRail --> ModelAPI;
     ModelAPI --> OutputGuardRail;
-    OutputGuardRail --|Response|--> user;
+    OutputGuardRail --Response--> user;
 
     PromptCache["Prompt Cache"];
     InputGuardRail["Input GuardRail"];
-    ModelAPI["Model API (Generation) (LLM)"];
+    ModelAPI["Model API 
+    (Generation) 
+    (LLM)"];
     OutputGuardRail["Output GuardRail"];
 ```
