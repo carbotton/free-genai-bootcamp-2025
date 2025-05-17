@@ -2,14 +2,14 @@
 
 ```mermaid
 graph TD;
-    USER --> RAG;
-    RAG --> Database;
-    RAG --> Internet;
+    ((USER)) --|Query|--> RAG;
+    RAG --> [(Database)];
+    RAG --> (((Internet)));
     RAG --> PromptCache;
     PromptCache --> InputGuardRail;
     InputGuardRail --> ModelAPI;
     ModelAPI --> OutputGuardRail;
-    OutputGuardRail --> USER;
+    OutputGuardRail --|Response|--> ((USER));
 
     PromptCache["Prompt Cache"];
     InputGuardRail["Input GuardRail"];
