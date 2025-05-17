@@ -10,6 +10,7 @@
 - Provide us a table of vocabulary. 
 - Provide a possible sentence structure.
 - When the student makes an attempt, interpret their reading so they can see what they actually said.
+- Once the student provides the correct translation, prompt them with a new english sentence to practice.
 
 ## Agent Flow
 
